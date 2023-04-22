@@ -27,11 +27,14 @@
 
 <h3 align="center">Certifications</h3>
 <p align="center">
-    <a href="https://www.credly.com/earner/earned/badge/045b0a83-9242-48fe-8fc6-1a40b7e3470f">
-        <img src="images/aws-certified-saa.png" alt="AWS Certified Solution Architect - Associate" width="200" height="200"/>
+    <a href="https://www.credly.com/earner/earned/badge/6a916b90-7814-4461-b7f7-3a12b79db981">
+        <img src="images/aws-certified-saa-pro.png" alt="AWS Certified Solution Architect - Professional" width="200" height="200"/>
     </a>
     <a href="https://www.credly.com/earner/earned/badge/0955bfed-9620-41bc-b615-262c70997e48">
 	    <img src="images/aws-certified-mlops.png" alt="AWS Certified Machine Learning - Specialty" width="200" height="200"/>
+    </a>
+    <a href="https://www.credly.com/earner/earned/badge/045b0a83-9242-48fe-8fc6-1a40b7e3470f">
+        <img src="images/aws-certified-saa.png" alt="AWS Certified Solution Architect - Associate" width="200" height="200"/>
     </a>
     <a href="https://www.credly.com/earner/earned/badge/e2d81ec9-df5e-42f5-a60d-de659828c0dc">
         <img src="images/terraform-certified-associate.png" alt="Terraform Certified - Associate" width="200" height="200"/>
@@ -101,9 +104,6 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=elghali97&show_icons=true&count_private=true&theme=radical" alt="elghali97" />
 </p>
-<br>
-<a><img alt="ElGhali97's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=elghali97&custom_title=El%20Ghali's%20Contribution%20Graph&theme=react-dark" /></a>
-<br>
 
 ----
 
