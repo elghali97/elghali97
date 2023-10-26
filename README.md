@@ -4,7 +4,7 @@
 
 -   🏢 **Senior Specialist Solutions Engineer [@Databricks](https://www.databricks.com/)**
   
--   🏢 Former Cloud, DevOps & MLOps Consultant | CTO Advisory [@Wavestone](https://https://wavestone.com/)**
+-   🏢 Former Cloud, DevOps & MLOps Consultant | CTO Advisory [@Wavestone](https://https://wavestone.com/)
 
 -   🚩 Technology inspired & adaptable fast learner, I'm fascinated by the potential of innovations for developing new ways of living and working. 
 
