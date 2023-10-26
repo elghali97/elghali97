@@ -1,8 +1,10 @@
 <h1 align="center">Hi There 👋, I'm <a href="https://github.com/elghali97" target="blank">El Ghali</a></h1> 
-<h3 align="center">I'm an Cloud, DevOps and MLOps Consultant based in Paris <br> SRE, Automation & Cloud Native Architecture enthusiast</h3>
+<h3 align="center">I'm a Cloud, DevOps and MLOps Specialist based in Paris <br> SRE, Automation & Cloud Native Architecture enthusiast</h3>
 <br>
 
--   🏢 **Cloud, DevOps & MLOps Consultant | CTO Advisory [@Wavestone](https://https://wavestone.com/)**
+-   🏢 **Senior Specialist Solutions Engineer [@Databricks](https://www.databricks.com/)**
+  
+-   🏢 Former Cloud, DevOps & MLOps Consultant | CTO Advisory [@Wavestone](https://https://wavestone.com/)**
 
 -   🚩 Technology inspired & adaptable fast learner, I'm fascinated by the potential of innovations for developing new ways of living and working. 
 
